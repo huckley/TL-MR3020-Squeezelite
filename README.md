@@ -4,7 +4,7 @@ more a gist then a full project...
 
 use TL-MR3020 with squeezelite for cheap multiroom audio
 
-The Goal was to have a cheap multiroom audio. And a TL-MR3020 V1 was found somware.
+The Goal was to have a cheap multiroom audio. And a TL-MR3020 V1 and a cheap usb-audio was found somwhere.
 
 ## How to build it self
 First we need to make sure the dependencies are installed (for Debian/Ubuntu):
