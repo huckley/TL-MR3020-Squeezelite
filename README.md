@@ -1,6 +1,6 @@
 # TL-MR3020-Squeezelite
 
-more a gist then q full project...
+more a gist then a full project...
 
 use TL-MR3020 with squeezelite for cheap multiroom audio
 
@@ -26,6 +26,7 @@ git checkout lede-17.01
 
 ./scripts/feeds update -a
 ./scripts/feeds install -a
-
+wget https://raw.githubusercontent.com/huckley/TL-MR3020-Squeezelite/master/.config
 make menuconfig
+make -j4
 ```
