@@ -1,4 +1,7 @@
 # TL-MR3020-Squeezelite
+
+more a gist then q full project...
+
 use TL-MR3020 with squeezelite for cheap multiroom audio
 
 The Goal was to have a cheap multiroom audio. And a TL-MR3020 V1 was found somware.
